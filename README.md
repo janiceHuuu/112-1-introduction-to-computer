@@ -1,6 +1,7 @@
 計算機概論
 ==
 ## 課程與程式簡介
+- 測量系選修課，3學分
 - 學習計算機基礎概論，包含電腦硬體、作業系統、軟體應用、網路原理、資訊安全等五大主題
   - [作業一](https://github.com/janiceHuuu/112-1-introduction-to-computer/blob/main/%E4%BD%9C%E6%A5%AD%E4%B8%80/%E8%A8%88%E7%AE%97%E6%A9%9F%E6%A6%82%E8%AB%96_F64126147%E8%83%A1%E7%91%80%E7%9C%9F_%E4%BD%9C%E6%A5%AD%E4%B8%80.pdf)：電腦硬體規格報告  
   - [作業二](https://github.com/janiceHuuu/112-1-introduction-to-computer/blob/main/%E4%BD%9C%E6%A5%AD%E4%BA%8C/%E4%BD%9C%E6%A5%AD%E4%BA%8C.pdf)：二、八、十與十六進位的轉換 
