@@ -15,7 +15,7 @@
     - 自訂三道鎖的密碼
     - 利用可變電阻當作保險鎖，解鎖時三顆LED會依序發亮
     - 當發出聲音時保險鎖會重 置且會暫時上鎖
-    - [DEMO影片](https://github.com/janiceHuuu/112-1-introduction-to-computer/blob/main/Arduino/homework1_video.mp4)
+    - [DEMO影片]([[https://github.com/janiceHuuu/112-1-introduction-to-computer/blob/main/Arduino/homework1_video.mp4](https://youtu.be/FOcgSYk4Rx4)](https://youtu.be/FOcgSYk4Rx4))
   - [homework 2](https://github.com/janiceHuuu/112-1-introduction-to-computer/blob/main/Arduino/homework2/homework2.ino)：DJ盤
     - 利用無源蜂鳴器搭配可變電阻與超音波測距儀，模擬DJ盤
     - [DEMO影片](https://github.com/janiceHuuu/112-1-introduction-to-computer/blob/main/Arduino/homework2_video.mp4)
