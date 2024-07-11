@@ -4,16 +4,22 @@
 - Arduino實作（程式碼與DEMO影片）
   - [practice 1](https://github.com/janiceHuuu/112-1-introduction-to-computer/blob/main/Arduino/practice1/practice1.ino)：感應燈
     - 透過光敏電阻感應亮度的變化而開啟LED燈
+    - [DEMO影片](https://github.com/janiceHuuu/112-1-introduction-to-computer/blob/main/Arduino/practice1_video.mp4)
   - [practice 2](https://github.com/janiceHuuu/112-1-introduction-to-computer/blob/main/Arduino/practice2/practice2.ino)：電子琴
     - 利用無源蜂鳴器搭配按鈕開關，模擬彈奏電子琴
+    - [DEMO影片](https://github.com/janiceHuuu/112-1-introduction-to-computer/blob/main/Arduino/practice2_video.mp4)
   - [practice 3](https://github.com/janiceHuuu/112-1-introduction-to-computer/blob/main/Arduino/practice3/practice3.ino)：倒車雷達
     - 利用無源蜂鳴器搭配超音波測距儀，模擬倒車雷達
+    - [DEMO影片](https://github.com/janiceHuuu/112-1-introduction-to-computer/blob/main/Arduino/practice3_video.mp4)
   - [homework 1](https://github.com/janiceHuuu/112-1-introduction-to-computer/blob/main/Arduino/homework1/homework1.ino)：保險鎖
     - 自訂三道鎖的密碼
     - 利用可變電阻當作保險鎖，解鎖時三顆LED會依序發亮
     - 當發出聲音時保險鎖會重 置且會暫時上鎖
+    - [DEMO影片](https://github.com/janiceHuuu/112-1-introduction-to-computer/blob/main/Arduino/homework1_video.mp4)
   - [homework 2](https://github.com/janiceHuuu/112-1-introduction-to-computer/blob/main/Arduino/homework2/homework2.ino)：DJ盤
     - 利用無源蜂鳴器搭配可變電阻與超音波測距儀，模擬DJ盤
+    - [DEMO影片](https://github.com/janiceHuuu/112-1-introduction-to-computer/blob/main/Arduino/homework2_video.mp4)
   - [homework 3](https://github.com/janiceHuuu/112-1-introduction-to-computer/blob/main/Arduino/homework3/homework3.ino)：自訂-地震通知與停電防災裝置
     - 利用震動感測器感應震動的產生，進而使藍色LED燈閃爍
     - 利用光敏電阻，當亮度低時將綠色LED燈打開，反之關閉
+    - [DEMO影片]()
